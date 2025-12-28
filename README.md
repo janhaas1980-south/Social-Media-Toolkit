@@ -1,16 +1,29 @@
-> 📢 **曼谷实验室 (Bangkok Lab) 官方公告：**
+> 📢 **自如** 实验室 ( (ziru) 官方公告
 > 
 > 由于技术探讨过于深入，原 CSDN 专栏已停止更新。所有关于 **68ms 极速链路** 与 **住宅原生 ISP** 的底层复现方案及最新调优包，现统一在 GitHub (janhaas1980-south) 与官方门户 **goziru [点] com** 发布。
 > 
 > ✅ 2,000+ 开发者共同见证的极速体验，在这里继续“自如”！🚀# 🚀 自如加速器 (zirujiasu) - HarmonyOS Next & iOS 全球化调优指南 (2026旗舰版)
+# 📢 欢迎从 CSDN 迁移过来的博友们！
 
+> **致曼谷实验室的老粉丝：**
+> 
+> 由于技术探讨过于硬核，原 CSDN 专栏（总访问 2,041+，单篇最高 3,347+ 展现）已正式在此“安家”。虽然原账号因合规原因“功成身退”，但我们的实测数据与技术核心依然“自如”：
+> 
+> * **不受限的技术实测**：复现全平台 **68ms 极速链路** 的底层逻辑。
+> * **住宅原生 ISP 资源**：彻底解决 TLS 握手重置 (RST) 的终极方案。
+> * **全套配置包**：支持 HarmonyOS NEXT / iOS / PC 三端直连调优。
+> 
+> **唯一技术高地：[goziru.com](https://goziru.com)**
+> 
+> ---
 <p align="center">
   <a href="https://goziru.com">
-    <img src="https://img.shields.io/badge/自如加速器-68ms极速体验包-red?style=for-the-badge&logo=rocket&logoColor=white" alt="自如加速器68ms体验">
+    <img src="https://img.shields.io/badge/自如加速器-68ms极速体验-red?style=for-the-badge&logo=rocket&logoColor=white" alt="自如加速器68ms体验">
   </a>
-  <a href="https://blog.csdn.net/Sen_1977/article/details/156314419?spm=1011.2415.3001.10575&sharefrom=mp_manage_link">
-    <img src="https://img.shields.io/badge/自如-住宅原生ISP技术-blue?style=for-the-badge&logo=book&logoColor=white" alt="自如技术原理">
+  <a href="./docs/performance-reports/pc-mobile-benchmarks.md">
+    <img src="https://img.shields.io/badge/获取自如_ISP_节点-蓝色-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="获取自如 ISP 节点">
   </a>
+</p>
 </p>
 
 ---
