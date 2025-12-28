@@ -1,19 +1,24 @@
-> 📢 **自如** 实验室 ( (ziru) 官方公告
+> 📢 **曼谷自如实验室 (Bangkok Ziru Laboratory) 官方公告：**
 > 
-> 由于技术探讨过于深入，原 CSDN 专栏已停止更新。所有关于 **68ms 极速链路** 与 **住宅原生 ISP** 的底层复现方案及最新调优包，现统一在 GitHub (janhaas1980-south) 与官方门户 **goziru [点] com** 发布。
-> 
-> ✅ 2,000+ 开发者共同见证的极速体验，在这里继续“自如”！🚀# 🚀 自如加速器 (zirujiasu) - HarmonyOS Next & iOS 全球化调优指南 (2026旗舰版)
+> 由于技术探讨过于深入，原 CSDN 专栏（总访问 2,041+，最高 3,347+ 展现）已正式在此“安家”。 
+> 我们继续为您提供：**68ms 极速链路**、**住宅原生 ISP** 底层复现方案及全套调优包。
+
+<p align="center">
+  <a href="https://goziru.com">
+    <img src="https://img.shields.io/badge/曼谷自如实验室-68ms极速体验-red?style=for-the-badge&logo=rocket&logoColor=white" alt="曼谷自如实验室 68ms 体验">
+  </a>
+  <a href="./docs/performance-reports/pc-mobile-benchmarks.md">
+    <img src="https://img.shields.io/badge/获取曼谷自如_ISP_节点-蓝色-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="获取曼谷自如 ISP 节点">
+  </a>
+</p>
+
+---
+
 # 📢 欢迎从 CSDN 迁移过来的博友们！
 
-> **致曼谷实验室的老粉丝：**
+> **致曼谷自如实验室的老粉丝：**
 > 
-> 由于技术探讨过于硬核，原 CSDN 专栏（总访问 2,041+，单篇最高 3,347+ 展现）已正式在此“安家”。虽然原账号因合规原因“功成身退”，但我们的实测数据与技术核心依然“自如”：
-> 
-> * **不受限的技术实测**：复现全平台 **68ms 极速链路** 的底层逻辑。
-> * **住宅原生 ISP 资源**：彻底解决 TLS 握手重置 (RST) 的终极方案。
-> * **全套配置包**：支持 HarmonyOS NEXT / iOS / PC 三端直连调优。
-> 
-> **唯一技术高地：[goziru.com](https://goziru.com)**
+> 原账号因合规原因“功成身退”， 我们的技术高地已迁移至：**[goziru.com](https://goziru.com)**
 > 
 > ---
 <p align="center">
