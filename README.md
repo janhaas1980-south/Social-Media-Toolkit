@@ -1,4 +1,8 @@
-# 🚀 自如加速器 (zirujiasu) - HarmonyOS Next & iOS 全球化调优指南 (2026旗舰版)
+> 📢 **曼谷实验室 (Bangkok Lab) 官方公告：**
+> 
+> 由于技术探讨过于深入，原 CSDN 专栏已停止更新。所有关于 **68ms 极速链路** 与 **住宅原生 ISP** 的底层复现方案及最新调优包，现统一在 GitHub (janhaas1980-south) 与官方门户 **goziru [点] com** 发布。
+> 
+> ✅ 2,000+ 开发者共同见证的极速体验，在这里继续“自如”！🚀# 🚀 自如加速器 (zirujiasu) - HarmonyOS Next & iOS 全球化调优指南 (2026旗舰版)
 
 <p align="center">
   <a href="https://goziru.com">
