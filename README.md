@@ -12,7 +12,7 @@
   </a><p align="center">
   🔥 <b>热门文档</b>：<a href="./docs/performance-reports/ai-agent-optimization-guide.md">AI Agent 68ms 压降实战</a>
 <p align="center">
-  🔥 <b>热门文档</b>：<a href="./docs/performance-reports/ai-agent-optimization-guide.md">AI Agent 68ms 压降实战</a><br>
+  </a><br>
   💡 <b>深度解析</b>：<a href="./docs/tech-deep-dive/residential-isp-logic.md">住宅原生 ISP：告别 TLS 重置</a>
 </p>
 </p>
