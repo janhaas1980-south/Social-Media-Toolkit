@@ -11,7 +11,10 @@
     <img src="https://img.shields.io/badge/获取曼谷自如_ISP_节点-蓝色-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="获取曼谷自如 ISP 节点">
   </a><p align="center">
   🔥 <b>热门文档</b>：<a href="./docs/performance-reports/ai-agent-optimization-guide.md">AI Agent 68ms 压降实战</a>
-</p>🔥 **深度解析**：[住宅原生 ISP：告别 TLS 重置](./docs/tech-deep-dive/residential-isp-logic.md)
+<p align="center">
+  🔥 <b>热门文档</b>：<a href="./docs/performance-reports/ai-agent-optimization-guide.md">AI Agent 68ms 压降实战</a><br>
+  💡 <b>深度解析</b>：<a href="./docs/tech-deep-dive/residential-isp-logic.md">住宅原生 ISP：告别 TLS 重置</a>
+</p>
 </p>
 
 ---
