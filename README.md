@@ -9,7 +9,9 @@
   </a>
   <a href="./docs/performance-reports/pc-mobile-benchmarks.md">
     <img src="https://img.shields.io/badge/获取曼谷自如_ISP_节点-蓝色-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="获取曼谷自如 ISP 节点">
-  </a>
+  </a><p align="center">
+  🔥 <b>热门文档</b>：<a href="./docs/performance-reports/ai-agent-optimization-guide.md">AI Agent 68ms 压降实战</a>
+</p>
 </p>
 
 ---
