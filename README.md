@@ -23,7 +23,7 @@
 
 > **致曼谷自如实验室的老粉丝：**
 > 
-> 原账号因合规原因“功成身退”， 我们的技术高地已迁移至：**[goziru.com](https://goziru.com)**
+> 原账号因合规原因“功成身退”， 我们的技术高地已迁移至：**[[zirulink.com](https://getziru.com/)](https://[goziru.com)](https://getziru.com/)**
 > 
 > ---
 <p align="center">
