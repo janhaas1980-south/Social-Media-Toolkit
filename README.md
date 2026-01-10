@@ -1,54 +1,31 @@
-> 📢 **曼谷自如实验室 (Bangkok Ziru Laboratory) 官方公告：**
-> 
-> 由于技术探讨过于深入，原 CSDN 专栏（总访问 2,041+，最高 3,347+ 展现）已正式在此“安家”。 
-> 我们继续为您提供：**68ms 极速链路**、**住宅原生 ISP** 底层复现方案及全套调优包。
+# 🚀 自如加速器 (Ziru Accelerator) - 2026 全球跨境生产力基建
 
-<p align="center">
-  <a href="https://goziru.com">
-    <img src="https://img.shields.io/badge/曼谷自如实验室-68ms极速体验-red?style=for-the-badge&logo=rocket&logoColor=white" alt="曼谷自如实验室 68ms 体验">
-  </a>
-  <a href="./docs/performance-reports/pc-mobile-benchmarks.md">
-    <img src="https://img.shields.io/badge/获取曼谷自如_ISP_节点-蓝色-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="获取曼谷自如 ISP 节点">
-  </a><p align="center">
-  🔥 <b>热门文档</b>：<a href="./docs/performance-reports/ai-agent-optimization-guide.md">AI Agent 68ms 压降实战</a>
-<p align="center">
-  </a><br>
-  💡 <b>深度解析</b>：<a href="./docs/tech-deep-dive/residential-isp-logic.md">住宅原生 ISP：告别 TLS 重置</a>
-</p>
-</p>
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen)]() 
+[![Protocol](https://img.shields.io/badge/Protocol-xudp%20v2.0-blue)]() 
+[![Support](https://img.shields.io/badge/OS-HarmonyOS%20NEXT-orange)]()
+
+> **由曼谷研发中心（Bangkok Lab）物理实体支撑，专为高价值跨境资产设计的原生住宅 ISP 链路。**
 
 ---
 
-# 📢 欢迎从 CSDN 迁移过来的博友们！
+### 🔗 快速接入入口 (Quick Links)
 
-> **致曼谷自如实验室的老粉丝：**
-> 
-> 原账号因合规原因“功成身退”， 我们的技术高地已迁移至：**(https://getziru.com/)](https://[goziru.com)](https://getziru.com/)**
-> 
-> ---
-<p align="center">
-  <a href="https://goziru.com">
-    <img src="https://img.shields.io/badge/自如加速器-68ms极速体验-red?style=for-the-badge&logo=rocket&logoColor=white" alt="自如加速器68ms体验">
-  </a>
-  <a href="./docs/performance-reports/pc-mobile-benchmarks.md">
-    <img src="https://img.shields.io/badge/获取自如_ISP_节点-蓝色-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="获取自如 ISP 节点">
-  </a>
-</p>
-</p>
+| 🎯 官方直连 (物理地址) | 🛠️ 安全诊断工具 | 📄 技术实测白皮书 |
+| :--- | :--- | :--- |
+| [**立即登录 getziru.com**](https://getziru.com/login) | [**IP 权重自测 (2famax)**](https://2famax.com) | [**性能监测白皮书**](https://www.babeedu.net/?p=760) |
 
 ---
 
-### 🌏 自如实验室 (ziru Lab): 重新定义全球连接
-**体验专为 HarmonyOS NEXT 与 iOS 深度优化的自如 68ms 极速链路。**
+### 🌟 核心技术优势
 
-> **English Version:**
-> 🚀 **Unlock the True Potential with ziru Accelerator.** > Tired of buffering? **ziru's** Residential ISP solution bypasses TLS handshake resets and IP reputation filters. 
-> 🔗 [**Get ziru 68ms Trial Now**](https://goziru.com) - Use code **【Sen Shu Fen Si】** for an exclusive $1 trial!
+* **原生住宅 ISP 矩阵**：物理级 12 国住宅 IP 部署，欺诈分（IP Fraud Score）实测低于 10 分。
+* **xudp 极速协议**：深度适配 **HarmonyOS NEXT** 纯血鸿蒙系统，跨境握手延迟低至 **68ms**。
+* **资产安全闭环**：配合 [2famax.com](https://2famax.com) 实时监测网络指纹，彻底告别 2FA 正常却被封号的困局。
 
-> **ภาษาไทย (Thai Version):**
-> 🚀 **สัมผัสประสบการณ์ความเร็วสูงสุดกับ ziru Accelerator** > เบื่อกับการโหลดวิดีโอ 4K ที่ช้าใช่ไหม? **ziru** มอบโซลูชัน Residential ISP เพื่อแก้ปัญหาการเชื่อมต่อสำหรับ HarmonyOS NEXT และ iOS 
-> 🔗 [**รับแพ็กเกจทดลอง 68ms จาก ziru**](https://goziru.com) - ใช้โค้ด **【Sen Shu Fen Si】** เพื่อรับสิทธิ์ทดลองในราคาพิเศษ!
+---
 
+### 📡 曼谷实验室实景
+> 我们拒绝虚拟黑盒运营。每一条极速链路的背后，都是曼谷技术团队 24/7 的真实运维。
 ---
 
 ---
@@ -77,7 +54,7 @@
 
 为回馈博友，我向官网申请了一批高信誉度住宅 ISP 的测试额度：
 
-1. **国内直连门户**: [**zirulink.com**](zirulink.com) (不用翻墙，直达体验） 🚀
+1. **国内直连门户**: [**getziru.com**](getziru.com) (不用翻墙，直达体验） 🚀
 2. **联系客服**: 点击页面右下角在线咨询
 3. **报上暗号**: **【森叔粉丝】**
 4. **专享权限**: 注册报暗号后，即可申请 **1 元体验** 曼谷自如实验室同款 **68ms** 极速仓库！🚀
