@@ -12,7 +12,7 @@
 
 | 🎯 官方直连 (物理地址) | 🛠️ 安全诊断工具 | 📄 技术实测白皮书 |
 | :--- | :--- | :--- |
-| [**立即登录 getziru.com**](https://getziru.com/login) | [**IP 权重自测 (2famax)**](https://2famax.com) | [**性能监测白皮书**](https://www.babeedu.net/?p=760) |
+| [**立即登录 zirulink.com**](https://zirulink.com/login) | [**IP 权重自测 (2famax)**](https://2famax.com) | [**性能监测白皮书**](https://www.babeedu.net/?p=760) |
 
 ---
 
@@ -54,7 +54,7 @@
 
 为回馈博友，我向官网申请了一批高信誉度住宅 ISP 的测试额度：
 
-1. **国内直连门户**: [**getziru.com**](getziru.com) (不用翻墙，直达体验） 🚀
+1. **国内直连门户**: [**zirulink.com**](zirulink.com) (不用翻墙，直达体验） 🚀
 2. **联系客服**: 点击页面右下角在线咨询
 3. **报上暗号**: **【森叔粉丝】**
 4. **专享权限**: 注册报暗号后，即可申请 **1 元体验** 曼谷自如实验室同款 **68ms** 极速仓库！🚀
