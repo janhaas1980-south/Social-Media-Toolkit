@@ -22,7 +22,7 @@
 > *账号会定期自动解锁并重置，请收藏本仓库获取最新动态。*
 ---
 🔗 **相关链接**
-- [实时账号状态看板](https://zirulink.com) 
+- [实时账号状态看板](https://ziru.us) 
 - [常见问题排查手册](https://www.babeedu.net)
 - [技术问题反馈](https://github.com/janhaas1980-south/US-AppStore-Free-Share/issues)
 ---
