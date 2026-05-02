@@ -24,7 +24,7 @@
 🔗 **相关链接**
 - [实时账号状态看板](https://ziru.us) 
 - [常见问题排查手册](https://www.babeedu.net)
-- [技术问题反馈](https://github.com/janhaas1980-south/US-AppStore-Free-Share/issues)
+
 ---
 
 ### 🛡️ 免责声明
